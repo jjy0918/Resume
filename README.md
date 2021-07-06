@@ -1,6 +1,5 @@
 # Resume
-
-![img/_(1).jpg](img/_(1).jpg)
+<img src="https://raw.githubusercontent.com/jjy0918/Resume/master/img/_(1).jpg" width="150">
 
 ## 정준영 **(Jung junyoung)**
 
