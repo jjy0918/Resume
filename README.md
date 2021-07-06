@@ -13,7 +13,7 @@
 
 ### 💻  [https://9327144.tistory.com/](https://9327144.tistory.com/)
 
-### GitHub :  [https://9327144.tistory.com/](https://9327144.tistory.com/)
+### GitHub :  [https://github.com/jjy0918](https://github.com/jjy0918)
 
 ### Portfolio : [https://github.com/jjy0918/Resume/blob/master/Portfolio.pdf](https://github.com/jjy0918/Resume/blob/master/Portfolio.pdf)
 
