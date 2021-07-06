@@ -13,6 +13,10 @@
 
 ### 💻  [https://9327144.tistory.com/](https://9327144.tistory.com/)
 
+### GitHub :  [https://9327144.tistory.com/](https://9327144.tistory.com/)
+
+### Portfolio : [https://github.com/jjy0918/Resume/blob/master/Portfolio.pdf](https://github.com/jjy0918/Resume/blob/master/Portfolio.pdf)
+
 # 🗣️ INTRODUCE
 
 다양한 경험과 진로 고민을 거쳐, **백엔드 개발자**의 길을 걷고있는 학생입니다.
