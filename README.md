@@ -17,7 +17,8 @@
 
 ### Portfolio : [portfolio](https://github.com/jjy0918/Resume/blob/main/Portfolio.pdf)
 
-<hr><br>
+<br>
+
 # 🗣️ INTRODUCE
 
 다양한 경험과 진로 고민을 거쳐, **백엔드 개발자**의 길을 걷고있는 학생입니다.
