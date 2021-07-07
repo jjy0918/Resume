@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/jjy0918/Resume/master/img/_(1).jpg" width="150">
 
 ## 정준영 **(Jung junyoung)**
-
+   
 ### 🗓️  1993.09.18
 
 ### 👨‍🎓 광운대학교 컴퓨터 소프트웨어학
