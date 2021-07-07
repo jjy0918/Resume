@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/jjy0918/Resume/master/img/_(1).jpg" width="150">
 
 ## 정준영 **(Jung junyoung)**
-  
+
 ### 🗓️  1993.09.18
 
 ### 👨‍🎓 광운대학교 컴퓨터 소프트웨어학
@@ -12,6 +12,10 @@
 ### 📧  cua0918@naver.com
 
 ### 💻  [https://9327144.tistory.com/](https://9327144.tistory.com/)
+
+### ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) :  [https://github.com/jjy0918](https://github.com/jjy0918)
+
+### Portfolio : [portfolio](https://github.com/jjy0918/Resume/blob/main/Portfolio.pdf)
 
 # 🗣️ INTRODUCE
 
