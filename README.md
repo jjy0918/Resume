@@ -13,7 +13,7 @@
 
 ### ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) :  [https://github.com/jjy0918](https://github.com/jjy0918)
 
-### Portfolio : [portfolio](https://github.com/jjy0918/Resume/blob/main/Portfolio.pdf)
+### Portfolio : [portfolio](https://drive.google.com/file/d/1PbwPUzZefp-J9T4YUO8C8um49jglb7Qb/view?usp=sharing)
 
 <br>
 
